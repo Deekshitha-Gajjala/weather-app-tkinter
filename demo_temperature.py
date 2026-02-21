@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import ttk
 import requests
 
-api_key = "dca272f481be31230373b82a8d910a2c"
+api_key = "YOUR_API_KEY"
 
 url = "https://api.openweathermap.org/data/2.5/weather"
 
